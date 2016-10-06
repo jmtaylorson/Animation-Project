@@ -1,0 +1,17 @@
+@import 'https://fonts.googleapis.com/css?family=Chelsea+Market|Josefin+Sans|Open+Sans';
+
+
+h1 {
+  text-align: center;
+  color: white;
+  font-family: "chelsea market";
+}
+body {
+  background-image : url(http://wordwallpaper.com/web/admin/uploaded_wallpaper/1447917299abstraction_glare_light_dark_97841_2560x1600.jpg);
+}
+svg {
+  background : sandybrown;
+  margin-left : auto;
+  margin-right: auto;
+  display: block;
+}
