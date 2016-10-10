@@ -15,3 +15,9 @@ svg {
   margin-right: auto;
   display: block;
 }
+P {
+  text-align: center;
+  color: white;
+  font-family: "chelseamarket";
+  font-size: 20px;
+}
